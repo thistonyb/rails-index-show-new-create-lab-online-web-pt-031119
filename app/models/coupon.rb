@@ -1,3 +1,3 @@
-class Coupon < ActiveRecord:Base
+class Coupon < ActiveRecord::Base
 
 end
